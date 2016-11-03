@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<section class="index" itemscope itemtype="http://schema.org/Blog">
+<section class="index" itemscope itemtype="https://schema.org/Blog">
     <section class="posts clear">
         <div class="section-title"><span>All Posts</span></div>
         {% for post in paginator.posts %}
-        <article class="post" role="article" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
+        <article class="post" role="article" itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
             <div class="post-meta clear">
                 <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%-d %b, %Y" }}</time> /
                 {% if post.category %}

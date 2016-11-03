@@ -50,7 +50,7 @@ defaults:
       comments: "false"
 
 # Serving
-url: "http://jimdytt.github.io"
+url: "https://jimdytt.github.io"
 baseurl: ""
 
 # Includes
