@@ -51,6 +51,7 @@ defaults:
 
 # Serving
 url: "https://jimdytt.github.io"
+#url: ""
 baseurl: ""
 
 # Includes
