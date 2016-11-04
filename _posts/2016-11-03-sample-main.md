@@ -32,6 +32,20 @@ Currently we are working on counting people, cars, bicycles, horses etc., but if
 
 
 
-#### Video
+#### Sample Detection Videos - Work in Progress
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/zr_hbO_EiuI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+.
+
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/LcVbv-bSoBM?rel=0" frameborder="0" allowfullscreen></iframe>
+
+.
+
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/IyAxa8O_Flc?rel=0" frameborder="0" allowfullscreen></iframe>
+
+.
+
+Thanks for watching
+
+
