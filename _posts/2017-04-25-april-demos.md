@@ -15,7 +15,7 @@ tags:
 A quick update of work in progress
 
 Coloured boxes show a person tracked across multiple tracks. The thinner purple/pink box shows a single track.
-The scenes are in rough order of complexity in terms of people count. Full re-identification still needs to be completed
+The scenes are in rough order of complexity in terms of people count. Full re-identification still needs to be completed.
 
 
 #### Sample Detection Videos - Work in Progress
@@ -35,6 +35,6 @@ The scenes are in rough order of complexity in terms of people count. Full re-id
 
 . 
 
-Full re-identification still needs to be completed
+
 
 
