@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-01-29 19:36
-title: "Autonomous PTZ camera with lidar and LWIR"
+title: "Last 6 months - using lidar and LWIR"
 author: jim
 category:
 
@@ -10,9 +10,9 @@ tags:
 
 ---
 
-![Counting pedestrians  - Work in Progress]({{ site.url}}/assets/img/people2.jpg)
+![Lidar Scan]({{ site.url}}/assets/content_img/park_person_lidar.jpg)
 
-Hello
+Q3 Q4 of 2017 were quiet as I was contracting as a technical PM on a project to get a pan-tilt-zoom CCTV camera to automatically detect and track targets using lidar and thermal sensors. Interesting and technically challenging work
 
 
 More
