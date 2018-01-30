@@ -17,8 +17,6 @@ Q3 Q4 of 2017 were quiet as I was contracting as a technical PM on a project to 
 Interesting and technically challenging work, that project has now been delivered so it's back to counting and also to the optical domain!
 
 
-More
-
 
 
 
