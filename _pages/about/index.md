@@ -14,7 +14,7 @@ Please get in touch if you are interested  jimd (at) yantantethera.com
 
 Jim Dallas is the founder and main researcher/ developer, but he uses his network of friends and contacts for the many tasks he is less good at. Previously Jim was the CTO at the wearable camera company Autographer, headed the short form video team at Sky, and has extensive experience as a Technical Project Manager in media-based Internet businesses. Way back he studied Maths at Oxford and AI at Edinburgh, when Neural Nets didn't yet work.
 
-Currently we are not seeking investment. The focus is on customer needs and how they  can be supported with a video counting service.
+Currently we are not seeking investment. The focus is on customer needs and how they can be supported with a video counting service.
 
 In terms of industries, we are not really looking at security systems or big-company retail. We are very interested in event management, market research, supporting business cases with video (footfall, car count) or anywhere there is a big need.
 
