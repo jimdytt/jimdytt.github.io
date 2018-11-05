@@ -23,16 +23,3 @@ An example is below. Next steps are around separating out 2 surfaces on one bloc
 
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/EpiQvws1odI?rel=0" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> 7b994ed61ad54890e728db2d410866643c953724
