@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: post
 date: 2018-11-05 10:00
@@ -35,3 +36,42 @@ An example is below. Next steps are around separating out 2 surfaces on one bloc
 
 
 
+=======
+---
+layout: post
+date: 2018-11-05 10:00
+title: "Mid range stereo early demo"
+author: jim
+category:
+
+tags:
+- home1
+
+---
+
+![Stereo Depth]({{ site.url}}/assets/content_img/im160.jpg)
+
+I have spent a lot of the year looking at depth from stereo, or photogrammetry. Inspired by <a href="https://www.elphel.com"> Elphel</a> who are using high-res commodity CMOS sensors for mid/long range depth from stereo, I've been taking a slightly different twist. Instead of using DCT matching to get sub-pixel resolution, I've been experimenting with direct block matching at the Bayer CFA pattern level.
+
+The current set up is from taking still images from a Ricoh GR (prime lens, no low-pass filter) and then matching them. Baseline is usually 25cm. I can currently get approximately 1/4 subpixel matching off tiled 16 pixel blocks. Z accuracy is roughly 1% at 50m, 2% at 100m.
+
+Still early days but I've started to get some results.
+An example is below. Next steps are around separating out 2 surfaces on one block, then looking at possible hardware platforms
+
+#### Sample Stereo depth video - Work in Progress
+
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/EpiQvws1odI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 7b994ed61ad54890e728db2d410866643c953724
