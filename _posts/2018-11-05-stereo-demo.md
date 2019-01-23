@@ -23,7 +23,7 @@ An example is below. Next steps include separating out 2 surfaces when they over
 
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/Nvkck41eLhk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-In the video above, the animated grey masks blocks  beyond a certain z distance to the camera. The animation shows z distance  decrease then increase at 1/4 subpixel matching steps. It shows 8 pixel square blocks in x,y direction. The image is 2k x 1k cropped  from larger 12MP image.
+In the video above, the animated grey masks blocks  beyond a certain z distance to the camera. The animation shows z distance  decrease then increase at 1/4 subpixel matching steps. It shows 2 pixel square blocks in x,y direction. The image is 2k x 1k cropped  from larger 12MP image.
 
 Unmatched pixels show occlusions which appear to the left of foreground objects, and errors due to mis-match, other errors include specular reflection (car) ,low-light (under the car) and uniform horizontal features on the house.
 
